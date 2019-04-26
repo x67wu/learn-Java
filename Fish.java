@@ -15,6 +15,7 @@ public class Fish implements SharkFamily{
 	
 	public static void main(String[] args) {
 		Fish yu = new Fish();
+		// update a little for a new branch on github
 		System.out.println(yu.doFinsHaveScales());
 	}
 }
